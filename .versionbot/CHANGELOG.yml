@@ -1,4 +1,17 @@
 - commits:
+    - subject: 'env-vars: Add the RESIN_ & BALENA_ namespaces programmatically'
+      hash: 38d6f9d9654b91dbf7b18ee681910599d926e285
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Thodoris Greasidis <thodoris@balena.io>
+        signed-off-by: Thodoris Greasidis <thodoris@balena.io>
+      author: Thodoris Greasidis
+      nested: []
+  version: 0.103.2
+  date: 2020-10-14T21:06:05.544Z
+- commits:
     - subject: 'device-heartbeat: Only update for requests using the device API Key'
       hash: 0bce898f8dbddf9933e0d62f2236be796091ff51
       body: ''

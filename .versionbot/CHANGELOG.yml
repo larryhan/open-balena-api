@@ -1,4 +1,27 @@
 - commits:
+    - subject: Add metrics for device logging
+      hash: cd2c7bcf32561ae4381656e906d39ef3c9ab750c
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Thomas Manning <thomasm@balena.io>
+        signed-off-by: Thomas Manning <thomasm@balena.io>
+      author: Thomas Manning
+      nested: []
+    - subject: Add new logging backend LokiBackend
+      hash: b3f4c56b1c896d9e6a950fb5c275035ece8d8c74
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+        Signed-off-by: Thomas Manning <thomasm@balena.io>
+        signed-off-by: Thomas Manning <thomasm@balena.io>
+      author: Thomas Manning
+      nested: []
+  version: 0.106.0
+  date: 2020-11-02T09:41:39.680Z
+- commits:
     - subject: Bump OData version to v6
       hash: dbe0cb97b2b78097f179e058588d826fff7afe84
       body: ''
